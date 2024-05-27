@@ -28,3 +28,4 @@ C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC 
 C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.pdb
 C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.genruntimeconfig.cache
 C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\ref\MVC Basic Assigmnent.dll
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.sourcelink.json
