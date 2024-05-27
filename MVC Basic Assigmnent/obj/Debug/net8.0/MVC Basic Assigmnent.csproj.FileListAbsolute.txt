@@ -1,0 +1,30 @@
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\bin\Debug\net8.0\appsettings.json
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\bin\Debug\net8.0\MVC Basic Assigmnent.staticwebassets.runtime.json
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\bin\Debug\net8.0\MVC Basic Assigmnent.exe
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\bin\Debug\net8.0\MVC Basic Assigmnent.deps.json
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\bin\Debug\net8.0\MVC Basic Assigmnent.runtimeconfig.json
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\bin\Debug\net8.0\MVC Basic Assigmnent.dll
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\bin\Debug\net8.0\MVC Basic Assigmnent.pdb
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.AssemblyInfoInputs.cache
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.AssemblyInfo.cs
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.csproj.CoreCompileInputs.cache
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.RazorAssemblyInfo.cache
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.RazorAssemblyInfo.cs
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\staticwebassets\msbuild.MVC Basic Assigmnent.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC Basic Assigmnent.props
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC Basic Assigmnent.props
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC Basic Assigmnent.props
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\scopedcss\bundle\MVC Basic Assigmnent.styles.css
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\scopedcss\projectbundle\MVC Basic Assigmnent.bundle.scp.css
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.dll
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\refint\MVC Basic Assigmnent.dll
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.pdb
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\MVC Basic Assigmnent.genruntimeconfig.cache
+C:\Users\Kent\Desktop\Lecicon\Assignment\Assignment c#\MVC Basic Assigmnent\MVC Basic Assigmnent\obj\Debug\net8.0\ref\MVC Basic Assigmnent.dll
